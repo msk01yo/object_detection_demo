@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>i (103).jpg</filename>
+	<path>E:\images\i (103).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>private_hause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>12</ymin>
+			<xmax>309</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>private_hause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>60</ymin>
+			<xmax>413</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

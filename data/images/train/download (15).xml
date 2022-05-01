@@ -1,0 +1,26 @@
+<annotation>
+	<folder>200photos</folder>
+	<filename>download (15).jpg</filename>
+	<path>E:\200photos\download (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>254</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>private_hause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>69</ymin>
+			<xmax>207</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

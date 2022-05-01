@@ -1,0 +1,26 @@
+<annotation>
+	<folder>200photos</folder>
+	<filename>i (20)(1).jpg</filename>
+	<path>E:\200photos\i (20)(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>high_rise_building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>99</ymin>
+			<xmax>342</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

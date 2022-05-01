@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>i (218).jpg</filename>
+	<path>E:\images\i (218).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>private_hause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>17</ymin>
+			<xmax>418</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>
